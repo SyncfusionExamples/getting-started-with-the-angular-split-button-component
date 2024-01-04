@@ -1,5 +1,5 @@
 # Getting Started with the Angular Split Button Component
-A quick-start project that helps you to configure the split button component with a few of its basic features like adding icons, displaying the component and popup in different positions, and grouping items with separators.
+A quick start project that shows how to add the Syncfusion Angular Split button component to an Angular application. It shows how to add a separator and display icons in the split button. It also shows how to customize the icon position.
 
 Refer to the following documentation to learn about the Angular Split Button component: https://ej2.syncfusion.com/angular/documentation/split-button/getting-started
 
